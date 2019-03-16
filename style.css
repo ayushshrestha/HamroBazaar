@@ -1,0 +1,60 @@
+BODY, TD, TH, DL, UL, OL, P {    FONT-FAMILY: Verdana,Sans-serif; FONT-SIZE: 11px; color:#191919; line-height:125%;}
+body { margin: 0; padding: 0; }
+
+FONT { line-height:135%;}
+
+a:link
+{
+	color: #2F2C5B;
+	text-decoration: none;
+}
+
+a:visited
+{
+	color: #2F2C5B;
+	text-decoration: none;
+}
+
+a:hover
+{
+	color: #5650A4;
+	text-decoration: none;
+}
+
+
+.title
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13.5px;
+	font-weight: bold;
+	color: #990000;
+}
+
+
+.txt 
+{
+   font-family: Verdana, Arial, Helvetica, sans-serif; 
+   font-size:11px;
+
+}
+ 
+
+
+h3 { font-size:12px; }
+
+
+p { }
+.warn { color: #FF0000; }	
+.star { color: #FF0000; }
+
+UL { list-style-type: square; }
+.red { color: #FF0000; }
+
+#tab_cat {border: 1px solid #FF9933;}
+#tab_cat1 {border: 1px solid #FFF3CE;}
+#lblue {border: 1px solid #C6C6D9;}
+#dblue {border: 1px solid #5E5E8A;}
+#dgreen {border: 1px solid #669933;}
+#lgreen {border: 1px solid #CCCC99;}
+#white {border: 1px solid #FFFFFF;}
+#mbuzz {border: 2px solid #B5E61F;}
